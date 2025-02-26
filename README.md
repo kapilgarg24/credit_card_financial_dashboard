@@ -1,4 +1,4 @@
-# 📊 Credit Card Financial Dashboard
+# Credit Card Financial Dashboard
 
 ## Project Overview
 This project is a **Credit Card Financial Dashboard** built using **Power BI**, providing key insights into bank-level credit card transactions, financial trends, and overall portfolio management. The dashboard enables financial institutions to analyze transaction volumes, revenue streams.
@@ -15,12 +15,12 @@ This project is a **Credit Card Financial Dashboard** built using **Power BI**, 
 - **Revenue by Demographics** – Breakdown of revenue by education, job profile, gender, income range, age group.
 - **Revenue-related KPIs** – Key performance indicators related to revenue growth, customer satisfaction score, average income and total interest.
 
-## 📊 Dashboard Visuals
+## Dashboard Visuals
 - **KPI Metrics** – Revenue growth, customer satisfaction score, average income and total interest.
 - **Customer Segmentation** – Analysis of different customer profiles.
 - **Demographic Revenue Insights** – Revenue trends segmented by education, job profile, gender, income range, and age group.
 
-## 🚀 How to Use
+## How to Use
 1. **Load Data** – Import bank transaction data into Power BI.
 2. **Refresh Dashboard** – Update visuals with the latest transaction data.
 3. **Interact with Filters** – Use slicers to analyze specific time periods, gender, card type.
