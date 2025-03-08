@@ -19,8 +19,3 @@ This project is a **Credit Card Financial Dashboard** built using **Power BI**, 
 - **KPI Metrics** – Revenue growth, customer satisfaction score, average income and total interest.
 - **Customer Segmentation** – Analysis of different customer profiles.
 - **Demographic Revenue Insights** – Revenue trends segmented by education, job profile, gender, income range, and age group.
-
-## How to Use
-1. **Load Data** – Import bank transaction data into Power BI.
-2. **Refresh Dashboard** – Update visuals with the latest transaction data.
-3. **Interact with Filters** – Use slicers to analyze specific time periods, gender, card type.
