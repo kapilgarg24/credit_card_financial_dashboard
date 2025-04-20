@@ -23,10 +23,17 @@ This project is a **Credit Card Financial Dashboard** built using **Power BI**, 
 ## Key Insights
 
 Analyzed **55 million** in total revenue across **655K+** transactions, revealing key behavioral and financial trends.
+
 Average customer income is **57,000**, and total interest earned by the bank is **7.8 million**.
+
 Businessmen generated the highest revenue among professions with **17 million**, led by female customers at **9 million**.
+
 **Age group 40–50** showed the highest revenue contribution with **25 million** dollars, and **married** individuals accounted for **28 million** dollars.
+
 **Blue card** holders contributed a significant **46 million** dollars in revenue, making it the most valuable card category.
+
 **Swipe** transactions were the most profitable, generating **35 million** dollars.
+
 **Quarter 3** recorded the highest revenue spike with **14.2 million** dollars, highlighting seasonal impact on credit card usage.
+
 The delinquency rate stands at 6.07 percent, aiding in risk management analysis.
